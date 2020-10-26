@@ -34,3 +34,11 @@
     f^-1(x) =  cuberoot of (x+7)
     
     
+# equation for abosolute value function
+
+    f(x) = -2|x-m| + n
+    where (m,n) is the vertex
+    
+    f(x) = a|x-h| + k
+    where (h,k) is the vertex
+    
