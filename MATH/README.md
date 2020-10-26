@@ -11,7 +11,7 @@
 
   ax^2 + bx +c = 0
   
-
+![image](https://user-images.githubusercontent.com/44506513/97133902-a75d0300-1708-11eb-810e-5259765556d4.png)
   
 # Equation for parabola
 
