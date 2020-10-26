@@ -10,7 +10,7 @@
 # Solving for x - Quadratic Equation
 ax^2 + bx +c = 0
 ￼
-x = a +- sqrt(b^2 - 4ac) / 2a
+https://github.com/naji-abdulla/SAT-Prep/issues/1#issue-729224307
   
 # Equation for parabola
 
