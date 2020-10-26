@@ -8,7 +8,9 @@
   Range ( n2 - n1)
   
 # Solving for x - Quadratic Equation
+ax^2 + bx +c = 0
 
+x = a +- sqrt(b^2 - 4ac) / 2a
   
 # Equation for parabola
 
